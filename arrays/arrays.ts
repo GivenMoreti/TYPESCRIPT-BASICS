@@ -17,3 +17,6 @@ console.log("All nums: ",numbers);
 //mutable arrays
 const nums : number[] = [32,5,56,6,32];
 
+// nums.push("34");
+nums.push(-1);
+nums.push(100);
